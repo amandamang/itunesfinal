@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">iTunes Search App</string>
+    <string name="app_label">search</string>
+    <string name="search_hint">Enter search</string>
+    <string name="artist_id">Artist ID</string>
+    <string name="artist_name">Artist Name</string>
+</resources>
